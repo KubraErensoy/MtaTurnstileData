@@ -1,7 +1,7 @@
 # MTA TURNSTILE DATA
 
 The New York subway MTA turnstile data is a series of data files containing cumulative number of entries and exits by station, turnstile, date and time. Data files are produced weekly, data records are collected typically every 4 hours with some exceptions.<br/> 
-In this analysis we use data from the 4 weeks(February months) of 2022. Data size is 840554.We used the data from the link below.<br/> 
+In this analysis we use data from the 12 weeks(3 months) of 2022. Data size is 840554.We used the data from the link below.<br/> 
 ### Data: http://web.mta.info/developers/turnstile.html
 
 
