@@ -20,8 +20,8 @@ Variables included in initially processed data:
 - **Entries =** *The comulative entry register value for a device*
 - **Exits =** *The cumulative exit register value for a device*
 - 
-## OBJECTIVE AND GOAL
-WomenTechWomenYes is holding an annual gala, and aims to invite as many interested individuals as possible.That's why, to find out the which stations and days in a week are the busiest in the resource.
+## Project Goals and Approach
+To aim of  the which stations and days in a week are the busiest in the traffic would allow us to reach more participants That’s why,
 
 - Finding the busiest stations.
 - Finding the busiest time of the day by busiest station.
