@@ -19,7 +19,6 @@ Variables included in initially processed data:
 - **Desc =** *Represent the "REGULAR" scheduled audit event (Normally occurs every 4 hours)*
 - **Entries =** *The comulative entry register value for a device*
 - **Exits =** *The cumulative exit register value for a device*
-- 
 ## Project Goals and Approach
 To aim of  the which stations and days in a week are the busiest in the traffic would allow us to reach more participants That’s why,
 
